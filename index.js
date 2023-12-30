@@ -4,7 +4,7 @@ form.onsubmit = async (e) => {
    const response = await fetch('https://jsonplaceholder.typicode.com/users', {
       method: 'POST',
       headers: { 'Content-Type': 'text/plain' },
-      body: new FormData(form)
+      body: new FormData(form),
    });
    const result = await response.json();
    console.log(result);
