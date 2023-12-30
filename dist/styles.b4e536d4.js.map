@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/styles.js"],"names":["getT","console","log","module","exports"],"mappings":"AAAA,SAASA,IAAIA,CAAA,EAAG;EACbC,OAAO,CAACC,GAAG,CAAC,MAAM,CAAC;AACtB;AACAC,MAAM,CAACC,OAAO,GAAG;EAAEJ,IAAI,EAAJA;AAAK,CAAC","file":"styles.b4e536d4.js","sourceRoot":"..","sourcesContent":["function getT() {\r\n   console.log('java');\r\n}\r\nmodule.exports = { getT };\r\n"]}
